@@ -1,3 +1,4 @@
 *.py[cod]
 crispy/*.pyc
 db.*
+.idea/
